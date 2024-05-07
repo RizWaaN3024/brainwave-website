@@ -6,7 +6,7 @@ const Section = ({
   id,
   crosses,
   crossesOffset,
-  customPadding,
+  customPaddings,
   children,
 }) => {
   return (
